@@ -20,3 +20,7 @@ Delivery time
 
 View Dashboard 1 [here](https://public.tableau.com/app/profile/raghu7462/viz/MachineHack-VisuationChallenge11/Dashboard1)
 View Dashboard 2 [here](https://public.tableau.com/app/profile/raghu7462/viz/MachineHack-VisuationChallenge1/Dashboard2)
+
+Here is snapshot from the learderboards. My rank was __11 out of 451 participants. Top 2%__
+
+![Untitled design](https://user-images.githubusercontent.com/65697330/133301596-53723f85-48bb-431e-a304-46e341c00109.png)
