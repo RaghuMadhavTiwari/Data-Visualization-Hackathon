@@ -1,4 +1,4 @@
-# Data-Visulization-Hackathom-
+# Data-Visulization-Hackathon-
 ### Tableau Viz as a part of Machine Hack Hackathon
 
 We often order food from food delivery apps like Zomato, Swiggy. Sometimes it often takes time to deliver the food. There are factors which impact the delivery time of the food.
